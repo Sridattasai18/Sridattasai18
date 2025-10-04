@@ -4,5 +4,5 @@
 -🌱 Learning: Machine Learning, Web Apps & UI UX  
 -💞️ I’m looking to collaborate on "I'm looking to collaborate with creative and like-minded individuals on exciting projects. Whether you bring expertise in web development, design, programming, writing, marketing, or any other field, let's come together and create something amazing.
 - 📫 How to reach me sridattasai18@gmail.com
-- 😄 Pronouns: Changing Oppurtunities into Solutions
+- 😄 Pronouns: Changing Ideas into Solutions
 - ⚡ Fun fact: Still figuring this out! 
