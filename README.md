@@ -1,5 +1,12 @@
-# 💫 About Me:
-Hi, I’m Kaligotla Sri Datta Sai Vithal<br>I'm an Undergraduate in Computer Science specialized in Artificial Intelligence and Data Science.<br>Currently working on: Full-stack & Gen AI projects<br>I'm looking to collaborate with creative and like-minded individuals on exciting projects.<br>Whether you bring expertise in web development, design and AI automation. let's come together and create something amazing.<br>
+💫 About Me:
+
+Hi, I’m Kaligotla Sri Datta Sai Vithal. <br>
+I’m an undergraduate Computer Science student specializing in Artificial Intelligence and Data Science.
+<br>
+Right now, I’m focused on learning and building projects in full-stack development and Generative AI. I enjoy turning ideas into practical applications and exploring how AI can solve real-world problems.
+<br>
+I’m always open to collaborating with creative, curious, and like-minded people on interesting projects. If you’re into web development, design, GenAI, or agentic AI automations, let’s connect and build something meaningful together.
+
 
 
 ## 🌐 Socials:
