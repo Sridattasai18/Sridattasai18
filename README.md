@@ -1,7 +1,7 @@
 💫 About Me:
-<!
+<br>
 Hi, I’m Kaligotla Sri Datta Sai Vithal. <br>
-I’m an undergraduate Computer Science student specializing in Artificial Intelligence and Data Science.
+I’m an undergraduate student in Computer Science(specializing in Artificial Intelligence and Data Science).
 <br>
 Right now, I’m focused on learning and building projects in full-stack development and Generative AI. I enjoy turning ideas into practical applications and exploring how AI can solve real-world problems.
 <br>
@@ -21,3 +21,4 @@ I’m always open to collaborating with creative, curious, and like-minded peopl
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sridattasai18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Currently working on the pins 
