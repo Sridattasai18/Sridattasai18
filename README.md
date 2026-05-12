@@ -1,5 +1,5 @@
 💫 About Me <br>
-Hi, I'm Kaligotla Sri Datta Sai Vithal — a Computer Science undergrad diving deep into AI and Data Science. <br>
+Hi, I'm Kaligotla Sri Datta Sai Vithal — a Computer Science undergrad specialized in AI and Data Science. <br>
 Right now I'm heads down learning and building things across full-stack development and Generative AI. I love the moment when an idea stops being just an idea and actually works.
 A few things I'm into:
 
