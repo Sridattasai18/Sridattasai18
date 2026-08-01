@@ -9,15 +9,6 @@ Understanding and learning how AI can solve problems that actually matter
 
 I'm always up for collaborating with people who are curious and love to build. If you're into web dev, design, GenAI, or AI automations — let's talk and make something worth making.
 
-<p align="center">
-  <a href="https://github.com/jeantimex/neofetch-profile">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=Sridattasai18&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2FSridattasai18%2FSridattasai18%2Fmain%2Fneofetch.json">
-      <img alt="Neofetch Profile" src="https://neofetch-profile.vercel.app/api?username=Sridattasai18&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2FSridattasai18%2FSridattasai18%2Fmain%2Fneofetch.json">
-    </picture>
-  </a>
-</p>
-
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaligotla-sri-datta-sai-vithal-01bb2a321)
