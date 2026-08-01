@@ -1,0 +1,45 @@
+{
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        { "key": "Name", "value": "{{name}}" },
+        { "key": "Role", "value": "B.Tech CSE (AI & Data Science), Final Year" },
+        { "key": "College", "value": "Vishnu Institute of Technology" },
+        { "key": "Location", "value": "{{location}}" },
+        { "key": "Uptime", "value": "{{uptime}}" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Languages", "value": "{{languages}}" },
+        { "key": "Currently Learning", "value": "Salesforce Dev (Apex, LWC, SOQL)" },
+        { "key": "IDE", "value": "VSCode, Cursor" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Interests.AI", "value": "GenAI, Agentic AI Systems" },
+        { "key": "Interests.Dev", "value": "Full-Stack Web Apps, UI/UX" }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        { "key": "Email", "value": "kaligotlasridattasai18@gmail.com" },
+        { "key": "Portfolio", "value": "https://proto-folio-three.vercel.app/" },
+        { "key": "LinkedIn", "value": "https://www.linkedin.com/in/kaligotla-sri-datta-sai-vithal-01bb2a321/" },
+        { "key": "X", "value": "https://x.com/Sridattasai18" }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
+      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
+      { "left": { "key": "Forks", "value": "{{forks}}" }, "right": { "key": "Following", "value": "{{following}}" } },
+      "loc"
+    ]
+  }
+}
