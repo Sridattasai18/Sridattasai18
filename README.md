@@ -27,9 +27,9 @@ Kaligotla@SriDattaSaiVithal ----------------------------------------------------
 
 - Contact -------------------------------------------------------------
 . Email: ........... <a href="mailto:kaligotlasridattasai18@gmail.com">kaligotlasridattasai18@gmail.com</a>
-. LinkedIn: ........ <a href="https://www.linkedin.com/in/kaligotla-sri-datta-sai-vithal-01bb2a321">/in/kaligotla-sri-datta-sai-vithal-01bb2a321</a>
+. LinkedIn: ........ <a href="https://www.linkedin.com/in/kaligotla-sri-datta-sai-vithal-01bb2a321">Kaligotla/linkedIn</a>
 . X (Twitter): ..... <a href="https://x.com/Sridattasai18">@Sridattasai18</a>
-. Portfolio: ....... <a href="https://proto-folio-three.vercel.app/">proto-folio-three.vercel.app</a>
+. Portfolio: ....... <a href="https://proto-folio-three.vercel.app/">Minimalist-Portfolio.com</a>
 . Resume: .......... <a href="https://drive.google.com/file/d/1oLs3PpToVALxRVp-DKP9dmC7erouDOeC/view?usp=sharing">bit.ly/your-resume-link</a>
 </pre>
 
