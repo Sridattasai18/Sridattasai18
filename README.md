@@ -1,19 +1,18 @@
-💫 About Me <br>
-Hi, I'm Kaligotla Sri Datta Sai Vithal — a Computer Science undergrad specialized in AI and Data Science. <br>
-Right now I'm heads down learning and building things across web development and Generative AI, and I've recently grown an interest in Salesforce, working on becoming a Salesforce developer alongside that. I love the moment when an idea stops being just an idea and actually works. <br>
-A few things I'm into:
+## About Me
 
-Building web apps that are actually useful,
-Experimenting with GenAI and agentic AI systems,
-Learning Salesforce development,
-Understanding and learning how AI can solve problems that actually matter
+Hey, I'm Datta — a Computer Science undergrad specializing in AI & Data Science. Most days you'll find me building something: web apps, GenAI experiments, or lately, digging into Salesforce development. I like the stretch between having an idea and watching it actually run.
 
-I'm always up for collaborating with people who are curious and love to build. If you're into web dev, design, GenAI, Salesforce, or AI automations — let's talk and make something worth making.
-<pre>
-  
+What I'm currently into:
+- Building web apps people can actually use, not just demos
+- Playing with GenAI and agentic AI systems
+- Learning Salesforce development from the ground up
+- Figuring out where AI genuinely solves a problem, instead of just looking impressive
+
+Always open to building with people who like figuring things out. If you're into web dev, design, GenAI, Salesforce, or AI automation — let's talk.
+  <pre>
 Kaligotla@SriDattaSaiVithal ----------------------------------------------------
 . Role: ............ Computer Science Undergrad (AI & Data Science)
-. Interests: ....... Web Development, Generative AI, Agentic AI systems
+. Interests: ....... Web Development, Generative AI, Agentic AI systems, Salesforce 
 . Currently: ....... Learning Salesforce Development
 
 - Tech Stack ----------------------------------------------------------
@@ -34,7 +33,7 @@ Kaligotla@SriDattaSaiVithal ----------------------------------------------------
 . Resume: .......... <a href="https://drive.google.com/file/d/1oLs3PpToVALxRVp-DKP9dmC7erouDOeC/view?usp=sharing">bit.ly/your-resume-link</a>
 </pre>
 
-# 📊 GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Sridattasai18&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Sridattasai18&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sridattasai18&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
