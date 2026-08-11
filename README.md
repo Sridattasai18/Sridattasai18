@@ -1,6 +1,6 @@
 ## About Me
 
-Hey, I'm Datta — a Computer Science undergrad specializing in AI & Data Science. Most days you'll find me building something: web apps, GenAI experiments, or lately, digging into Salesforce development. I like the stretch between having an idea and watching it actually run.
+Hey, I'm Datta — a Computer Science and Engineering undergradate specializing in AI & Data Science @at **Vishnu Institute of Technology, Bhimavaram**. Most days you'll find me building something: web apps, GenAI experiments, or lately, focusing on to Salesforce development. I like the stretch between having an idea and watching it actually run.
 
 What I'm currently into:
 - Building web apps people can actually use, not just demos
