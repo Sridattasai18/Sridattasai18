@@ -1,6 +1,6 @@
 ### <samp>about</samp>
 
-> CS undergrad specializing in AI & Data Science at Vishnu Institute of Technology, Bhimavaram.<br>
+> CS undergrad specializing in AI & Data Science at **Vishnu Institute of Technology**, Bhimavaram.<br>
 > Ideas in, working things out.
 
 Most days I'm building something — web apps, GenAI experiments, and learning about CRM & <br>
