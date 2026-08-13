@@ -1,42 +1,71 @@
-## About Me
+### <samp>about</samp>
 
-Hey, I'm Datta — a Computer Science and Engineering undergradate specializing in AI & Data Science @at **Vishnu Institute of Technology, Bhimavaram**. Most days you'll find me building something: web apps, GenAI experiments, or lately, focusing on to Salesforce development. I like the stretch between having an idea and watching it actually run.
+> CS undergrad specializing in AI & Data Science at Vishnu Institute of Technology, Bhimavaram.<br>
+> Ideas in, working things out.
 
-What I'm currently into:
-- Building web apps people can actually use, not just demos
-- Playing with GenAI and agentic AI systems
-- Learning Salesforce development from the ground up
-- Figuring out where AI genuinely solves a problem, instead of just looking impressive
+Most days I'm building something — web apps, GenAI experiments, and learning about CRM & <br>
+Salesforce development. I like the stretch between having an idea and<br>
+watching it actually run.
 
-Always open to building with people who like figuring things out. If you're into web dev, design, GenAI, Salesforce, or AI automation — let's talk.
-  <pre>
-Kaligotla@SriDattaSaiVithal ----------------------------------------------------
-. Role: ............ Computer Science Undergrad (AI & Data Science)
-. Interests: ....... Web Development, Generative AI, Agentic AI systems, Salesforce 
-. Currently: ....... Learning Salesforce Development
-
-- Tech Stack ----------------------------------------------------------
-. Languages: ....... Python, Java, SQL
-. Frontend: ........ HTML, CSS, JavaScript, Bootstrap
-. Backend: ......... Node.js,Flask
-. Databases: ....... MySQL, Firebase
-. Data Science: .... NumPy, Pandas, Matplotlib, scikit-learn, Anaconda
-. Cloud: ........... Vercel, Render, Google Cloud
-. UI & Design: .......... Figma, Framer, Canva, Dribbble
-. Tools: ........... Git, GitHub, Docker, Notion, Obsidian
-
-- Contact -------------------------------------------------------------
-. Email: ........... <a href="mailto:kaligotlasridattasai18@gmail.com">kaligotlasridattasai18@gmail.com</a>
-. LinkedIn: ........ <a href="https://www.linkedin.com/in/kaligotla-sri-datta-sai-vithal-01bb2a321">Kaligotla/linkedIn</a>
-. X (Twitter): ..... <a href="https://x.com/Sridattasai18">@Sridattasai18</a>
-. Portfolio: ....... <a href="https://proto-folio-three.vercel.app/">Minimalist-Portfolio.com</a>
-. Resume: .......... <a href="https://drive.google.com/file/d/1oLs3PpToVALxRVp-DKP9dmC7erouDOeC/view?usp=sharing">bit.ly/your-resume-link</a>
-</pre>
-
-## GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sridattasai18&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Sridattasai18&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sridattasai18&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Open to building with people who like figuring things out — web dev,<br>
+UI & UX design, GenAI, Salesforce.
 
 ---
-“Pinned below are some of my recent projects — with a few still actively in development.”
+
+### Contact 
+
+<div align="center">
+
+[email](mailto:kaligotlasridattasai18@gmail.com) &nbsp;·&nbsp;
+[linkedin](https://www.linkedin.com/in/kaligotla-sri-datta-sai-vithal-01bb2a321) &nbsp;·&nbsp;
+[x](https://x.com/Sridattasai18) &nbsp;·&nbsp;
+[portfolio](https://proto-folio-three.vercel.app/) &nbsp;·&nbsp;
+[resume](https://drive.google.com/file/d/1oLs3PpToVALxRVp-DKP9dmC7erouDOeC/view?usp=sharing)
+
+</div>
+
+### <samp>stack</samp>
+
+<samp>python &nbsp; java &nbsp; sql &nbsp; javascript &nbsp; node &nbsp; flask &nbsp; mysql &nbsp; firebase &nbsp; docker &nbsp; git &nbsp; Salesforce Dev(Soql,apex,lwc,..) </samp>
+
+---
+
+### <samp>projects</samp>
+
+**[Salesforce-Training](https://github.com/Sridattasai18/salesforce-training)** &nbsp;·&nbsp; <samp>apex, lwc, soql, rest api</samp><br>
+Wanted to learn Salesforce properly, so I built a Placement Management System. Students see jobs<br>
+they're eligible for, apply once (duplicates blocked), validation runs async, offers generate<br>
+on status change. Added REST endpoints so external systems can fetch jobs and submit apps.<br>
+Trigger framework, service layer, Lightning components — built it like production code.
+
+**[Resume-Engineer](https://github.com/Sridattasai18/Resume-Engineer)** &nbsp;·&nbsp; <samp>python, latex, gemini</samp><br>
+AI resume tailoring tool — generates ATS-scored LaTeX resumes, cover letters,<br>
+and keyword gap analysis from your resume and a job description.
+
+**[Fin-Relief](https://github.com/Sridattasai18/Fin-Relief)** &nbsp;·&nbsp; <samp>react, fastapi, postgres, gemini</samp><br>
+Debt settlement platform — computes a realistic settlement percentage from<br>
+your loan data and drafts the negotiation letter to your bank.
+
+**[F.R.I.D.A.Y](https://github.com/Sridattasai18/Friday)** &nbsp;·&nbsp; <samp>node, ink</samp><br>
+Terminal task/habit tracker with streaks and a personality engine.<br>
+Published to npm, local-first, no cloud.
+
+**[Neo-folio](https://github.com/Sridattasai18/Neo-folio)** &nbsp;·&nbsp; <samp>react, typescript, framer motion</samp><br>
+Portfolio built to test neo-brutalism — bold type, sharp borders,<br>
+high-contrast color, no soft edges.
+
+---
+
+### <samp>stats</samp>
+
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api?username=Sridattasai18&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=Sridattasai18&theme=github_dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sridattasai18&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+<samp>Pinned below are a few recent projects — some still actively in development.</samp>
