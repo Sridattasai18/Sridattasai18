@@ -16,14 +16,14 @@ Kaligotla@SriDattaSaiVithal ----------------------------------------------------
 . Currently: ....... Learning Salesforce Development
 
 - Tech Stack ----------------------------------------------------------
-. Languages: ....... Python, Java, SQL, HTML, CSS, JavaScript
-. Frontend: ........ Bootstrap, Tailwind CSS, React
-. Backend: ......... Node.js, Express.js, Flask
+. Languages: ....... Python, Java, SQL
+. Frontend: ........ HTML, CSS, JavaScript, Bootstrap
+. Backend: ......... Node.js,Flask
 . Databases: ....... MySQL, Firebase
 . Data Science: .... NumPy, Pandas, Matplotlib, scikit-learn, Anaconda
 . Cloud: ........... Vercel, Render, Google Cloud
-. Design: .......... Figma, Framer, Canva, Dribbble
-. Tools: ........... Git, GitHub, Notion, Obsidian
+. UI & Design: .......... Figma, Framer, Canva, Dribbble
+. Tools: ........... Git, GitHub, Docker, Notion, Obsidian
 
 - Contact -------------------------------------------------------------
 . Email: ........... <a href="mailto:kaligotlasridattasai18@gmail.com">kaligotlasridattasai18@gmail.com</a>
