@@ -3,11 +3,11 @@
 > CS undergrad specializing in AI & Data Science at **Vishnu Institute of Technology**, Bhimavaram.<br>
 > Ideas in, working things out.
 
-Most days I'm building something — web apps, GenAI experiments, and learning about CRM & <br>
+Most days I'm experimenting or building something like — web apps, GenAI experiments, and learning about CRM & <br>
 Salesforce development. I like the stretch between having an idea and<br>
 watching it actually run.
 
-Open to building with people who like figuring things out — web dev,<br>
+Open to building with people who like figuring things out in — web dev,<br>
 UI & UX design, GenAI, Salesforce.
 
 ---
