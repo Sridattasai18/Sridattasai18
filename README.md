@@ -14,7 +14,7 @@ UI & UX design, GenAI, Salesforce.
 
 ### Contact 
 
-<div align="center">
+<div align="left">
 
 [email](mailto:kaligotlasridattasai18@gmail.com) &nbsp;·&nbsp;
 [linkedin](https://www.linkedin.com/in/kaligotla-sri-datta-sai-vithal-01bb2a321) &nbsp;·&nbsp;
