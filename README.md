@@ -32,11 +32,12 @@ UI & UX design, GenAI, Salesforce.
 
 ### <samp>projects</samp>
 
-**[Salesforce-Training](https://github.com/Sridattasai18/salesforce-training)** &nbsp;·&nbsp; <samp>apex, lwc, soql, rest api</samp><br>
-Wanted to learn Salesforce properly, so I built a Placement Management System. Students see jobs<br>
-they're eligible for, apply once (duplicates blocked), validation runs async, offers generate<br>
-on status change. Added REST endpoints so external systems can fetch jobs and submit apps.<br>
-Trigger framework, service layer, Lightning components — built it like production code.
+**[Placement-Management-System](https://github.com/Sridattasai18/Placement-Management-System)** &nbsp;·&nbsp; <samp>apex, lwc, soql, rest api, async apex, salesforce cli</samp><br>
+Built a Salesforce Placement Management System where students can view jobs<br>
+they're eligible for, apply with duplicate prevention and business validations, and manage their profiles.<br>
+Automated placement workflows using triggers, Queueable/Batch Apex, and scheduled processing, with<br>
+REST API integration and integration logging for external systems. Trigger framework, service layer,<br>
+Lightning Web Components, Git and Salesforce CLI — built as a source-controlled Salesforce application.
 
 **[Resume-Engineer](https://github.com/Sridattasai18/Resume-Engineer)** &nbsp;·&nbsp; <samp>python, latex, gemini</samp><br>
 AI resume tailoring tool — generates ATS-scored LaTeX resumes, cover letters,<br>
