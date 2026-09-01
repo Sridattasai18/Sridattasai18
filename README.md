@@ -8,7 +8,7 @@ Salesforce development. I like the stretch between having an idea and<br>
 watching it actually run.
 
 Open to building with people who like figuring things out in — web dev,<br>
-UI & UX design, GenAI, Salesforce.
+UI & UX design, GenAI, Salesforce CRM.
 
 ---
 
