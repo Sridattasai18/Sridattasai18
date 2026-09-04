@@ -71,3 +71,15 @@ and high contrast.
 <div align="center">
 <samp>building things · learning things · figuring things out</samp>
 </div>
+---
+
+### <samp>stats</samp>
+
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api?username=Sridattasai18&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=Sridattasai18&theme=github_dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sridattasai18&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
