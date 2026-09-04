@@ -1,72 +1,73 @@
 ### <samp>about</samp>
 
-> CS undergrad specializing in AI & Data Science at **Vishnu Institute of Technology**, Bhimavaram.<br>
+> CS (AI & Data Science) undergrad at **Vishnu Institute of Technology**, Bhimavaram.<br>
 > Ideas in, working things out.
 
-Most days I'm experimenting or building something like — web apps, GenAI experiments, and learning about CRM & <br>
-Salesforce development. I like the stretch between having an idea and<br>
-watching it actually run.
-
-Open to building with people who like figuring things out in — web dev,<br>
-UI & UX design, GenAI, Salesforce CRM.
+I build full-stack and AI-adjacent projects, and I'm currently learning **Salesforce development & CRM**.<br>
+Most days I'm experimenting, building, breaking things, and figuring out how to make them work.
 
 ---
 
-### Contact 
+### <samp>currently</samp>
 
-<div align="left">
-
-[email](mailto:kaligotlasridattasai18@gmail.com) &nbsp;·&nbsp;
-[linkedin](https://www.linkedin.com/in/kaligotla-sri-datta-sai-vithal-01bb2a321) &nbsp;·&nbsp;
-[x](https://x.com/Sridattasai18) &nbsp;·&nbsp;
-[portfolio](https://proto-folio-three.vercel.app/) &nbsp;·&nbsp;
-[resume](https://drive.google.com/file/d/1oLs3PpToVALxRVp-DKP9dmC7erouDOeC/view?usp=sharing)
-
-</div>
-
-### <samp>stack</samp>
-
-<samp>python &nbsp; java &nbsp; sql &nbsp; javascript &nbsp; node &nbsp; flask &nbsp; mysql &nbsp; firebase &nbsp; docker &nbsp; git &nbsp; Salesforce Dev(Soql,apex,lwc,..) </samp>
+**Learning** — Salesforce · Apex · LWC · SOQL · Flows & DSA<br>
+**Exploring** — GenAI · RAG · Prompt Engineering<br>
+**Building** — Full-stack applications · Salesforce applications<br>
+**Looking for** — Internship & placement opportunities
 
 ---
 
 ### <samp>projects</samp>
 
-**[Placement-Management-System](https://github.com/Sridattasai18/Placement-Management-System)** &nbsp;·&nbsp; <samp>apex, lwc, soql, rest api, async apex, salesforce cli</samp><br>
-Built a Salesforce Placement Management System where students can view jobs<br>
-they're eligible for, apply with duplicate prevention and business validations, and manage their profiles.<br>
-Automated placement workflows using triggers, Queueable/Batch Apex, and scheduled processing, with<br>
-REST API integration and integration logging for external systems. Trigger framework, service layer,<br>
-Lightning Web Components, Git and Salesforce CLI — built as a source-controlled Salesforce application.
+**[Placement Management System](https://github.com/Sridattasai18/Placement-Management-System)**  ·  <samp>salesforce, apex, lwc, soql, rest api</samp><br>
+Enterprise-style campus placement platform with job eligibility, applications, business validations,<br>
+trigger architecture, service layer, async Apex, and external REST integration.
 
-**[Resume-Engineer](https://github.com/Sridattasai18/Resume-Engineer)** &nbsp;·&nbsp; <samp>python, latex, gemini</samp><br>
-AI resume tailoring tool — generates ATS-scored LaTeX resumes, cover letters,<br>
-and keyword gap analysis from your resume and a job description.
+**[RepoLogic](https://github.com/Sridattasai18/RepoLogic)**  ·  <samp>python, flask, gemini, rag, faiss</samp><br>
+Chat with a GitHub repository using RAG — retrieves relevant source code and generates answers<br>
+grounded in the actual codebase.
 
-**[Fin-Relief](https://github.com/Sridattasai18/Fin-Relief)** &nbsp;·&nbsp; <samp>react, fastapi, postgres, gemini</samp><br>
-Debt settlement platform — computes a realistic settlement percentage from<br>
-your loan data and drafts the negotiation letter to your bank.
+**[Resume Engineer](https://github.com/Sridattasai18/Resume-Engineer)**  ·  <samp>python, flask, gemini, latex</samp><br>
+AI-powered resume optimization tool for ATS scoring, keyword gap analysis,<br>
+resume tailoring, and cover letters.
 
-**[F.R.I.D.A.Y](https://github.com/Sridattasai18/Friday)** &nbsp;·&nbsp; <samp>node, ink</samp><br>
-Terminal task/habit tracker with streaks and a personality engine.<br>
-Published to npm, local-first, no cloud.
+**[FinRelief AI](https://github.com/Sridattasai18/Fin-Relief)**  ·  <samp>react, fastapi, postgres, gemini</samp><br>
+Full-stack debt-management platform built as a SmartBridge internship capstone.<br>
+Served as team lead.
 
-**[Neo-folio](https://github.com/Sridattasai18/Neo-folio)** &nbsp;·&nbsp; <samp>react, typescript, framer motion</samp><br>
-Portfolio built to test neo-brutalism — bold type, sharp borders,<br>
-high-contrast color, no soft edges.
+**[F.R.I.D.A.Y](https://github.com/Sridattasai18/Friday)**  ·  <samp>node, ink, cli</samp><br>
+Local-first terminal task and habit manager with streaks and a personality engine.<br>
+Published to npm.
+
+**[Neo-folio](https://github.com/Sridattasai18/Neo-folio)**  ·  <samp>react, typescript, framer motion</samp><br>
+Portfolio built around neo-brutalism — bold type, sharp borders,<br>
+and high contrast.
 
 ---
 
-### <samp>stats</samp>
+### <samp>stack</samp>
+
+**Languages** — Python · JavaScript/TypeScript · Apex · SQL<br>
+**Frontend** — HTML · CSS · Bootstrap · React<br>
+**Backend** — Flask · Node.js<br>
+**Database** — Firebase<br>
+**AI/ML** — Gemini API · RAG · FAISS · Prompt Engineering<br>
+**Salesforce** — Apex · LWC · SOQL · Flows · Async Apex · Salesforce CLI<br>
+**Tools** — Git · VS Code · Salesforce Trailhead · Cursor · Claude Code<br>
+
+---
+
+### <samp>connect</samp>
+
+[GitHub](https://github.com/Sridattasai18)  · 
+[LinkedIn](https://www.linkedin.com/in/kaligotla-sri-datta-sai-vithal-01bb2a321)  · 
+[X](https://x.com/Sridattasai18)  · 
+[Portfolio](https://proto-folio-three.vercel.app/)  · 
+[Resume](https://drive.google.com/file/d/1VPXRoCU0tklbweuNCFakV51_Tf_OjcV0/view)  · 
+[Email](mailto:kaligotlasridattasai18@gmail.com)
+
+---
 
 <div align="center">
-
-![](https://github-readme-stats.shion.dev/api?username=Sridattasai18&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=Sridattasai18&theme=github_dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sridattasai18&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<samp>building things · learning things · figuring things out</samp>
 </div>
-
----
-
-<samp>Pinned below are a few recent projects — some still actively in development.</samp>
