@@ -8,12 +8,23 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+full-stack+%26+AI+projects;Learning+Salesforce+dev+%26+CRM;Ideas+in%2C+working+things+out.&font=Fira+Code&center=true&width=440&height=30&color=f75c7e&vCenter=true&size=18" alt="typing" />
 </a>
 
+
+
 ### <samp>about</samp>
 > CS (AI & Data Science) undergrad at **Vishnu Institute of Technology**, Bhimavaram.<br>
 > Ideas in, working things out.
 
 I build full-stack and AI-adjacent projects, and I'm currently learning **Salesforce development & CRM**.<br>
 Most days I'm experimenting, building, breaking things, and figuring out how to make them work.
+
+### <samp>connect</samp>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sridattasai18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-datta-sai-vithal-kaligotla-01bb2a321/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Sridattasai18)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FBBC05?style=flat-square&logo=vercel&logoColor=white)](https://proto-folio-three.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-EA4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1VPXRoCU0tklbweuNCFakV51_Tf_OjcV0/view)
+[![Email](https://img.shields.io/badge/Email-34A853?style=flat-square&logo=gmail&logoColor=white)](mailto:kaligotlasridattasai18@gmail.com)
 
 ---
 
@@ -78,16 +89,6 @@ Portfolio built around neo-brutalism — bold type, sharp borders, and high cont
 <samp><b>Database</b> — Firebase · PostgreSQL</samp><br>
 <samp><b>AI/ML</b> — Gemini API · RAG · FAISS · Prompt Engineering</samp><br>
 <samp><b>Tools</b> — Git · VS Code · Salesforce Trailhead · Cursor · Claude Code</samp>
-
----
-
-### <samp>connect</samp>
-[GitHub](https://github.com/Sridattasai18) ·
-[LinkedIn](https://www.linkedin.com/in/sri-datta-sai-vithal-kaligotla-01bb2a321/) ·
-[X](https://x.com/Sridattasai18) ·
-[Portfolio](https://proto-folio-three.vercel.app/) ·
-[Resume](https://drive.google.com/file/d/1VPXRoCU0tklbweuNCFakV51_Tf_OjcV0/view) ·
-[Email](mailto:kaligotlasridattasai18@gmail.com)
 
 ---
 
