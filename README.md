@@ -25,6 +25,7 @@ Most days I'm experimenting, building, breaking things, and figuring out how to 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FBBC05?style=flat-square&logo=vercel&logoColor=white)](https://proto-folio-three.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-EA4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1VPXRoCU0tklbweuNCFakV51_Tf_OjcV0/view)
 [![Email](https://img.shields.io/badge/Email-34A853?style=flat-square&logo=gmail&logoColor=white)](mailto:kaligotlasridattasai18@gmail.com)
+[![github visits](https://komarev.com/ghpvc/?username=Sridattasai18&style=flat-square&color=blue&label=github+visits)](https://github.com/Sridattasai18)
 
 ---
 
@@ -83,12 +84,12 @@ Portfolio built around neo-brutalism — bold type, sharp borders, and high cont
 
 ### <samp>stack</samp>
 
-<img src="https://skillicons.dev/icons?i=python,js,flask,nodejs,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,html,css,bootstrap,js,flask,nodejs,git,docker,firebase,postgres,vscode&theme=dark" />
 <br><br>
 <samp><b>Salesforce</b> — Apex · LWC · SOQL · Flows · Async Apex · Salesforce CLI</samp><br>
 <samp><b>Database</b> — Firebase · PostgreSQL</samp><br>
-<samp><b>AI/ML</b> — Gemini API · RAG · FAISS · Prompt Engineering</samp><br>
-<samp><b>Tools</b> — Git · VS Code · Salesforce Trailhead · Cursor · Claude Code</samp>
+<samp><b>AI/ML</b> — LLM's & API's · RAG · FAISS · Prompt Engineering </samp> <br>
+<samp><b>Tools</b> — Git · Salesforce Trailhead · Cursor · Claude Code</samp>
 
 ---
 
