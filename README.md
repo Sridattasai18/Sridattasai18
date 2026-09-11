@@ -11,11 +11,11 @@
 
 
 ### <samp>about</samp>
-> CS (AI & Data Science) undergrad at **Vishnu Institute of Technology**, Bhimavaram.<br>
-> Ideas in, working things out.
+> Final-year CS (AI & Data Science) student at **Vishnu Institute of Technology**, Bhimavaram.<br>
+> Still learning, still shipping — one project at a time.
 
-I build full-stack and AI-adjacent projects, and I'm currently learning **Salesforce development & CRM**.<br>
-Most days I'm experimenting, building, breaking things, and figuring out how to make them work.
+I'm building **full-stack** and **GenAI** projects while picking up **Salesforce development & CRM** on the side.<br>
+Actively looking for an **internship or full-time role** where I can keep learning and contribute from day one.
 
 ### <samp>connect</samp>
 
@@ -34,7 +34,7 @@ Most days I'm experimenting, building, breaking things, and figuring out how to 
 <br>
 
 **Learning** — Salesforce · Apex · LWC · SOQL · Flows & DSA<br>
-**Exploring** — GenAI · RAG · Prompt Engineering<br>
+**Exploring** — GenAI · RAG · Prompt & Context Engineering<br>
 **Building** — Full-stack applications · Salesforce applications<br>
 **Looking for** — Internship & placement opportunities
 
@@ -57,21 +57,15 @@ Chat with a GitHub repository using RAG — retrieves relevant source code and g
 </details>
 
 <details>
-<summary><b><a href="https://github.com/Sridattasai18/Resume-Engineer">Resume Engineer</a></b> &nbsp;·&nbsp; <samp>python, flask, gemini, latex</samp></summary>
-<br>
-AI-powered resume optimization tool for ATS scoring, keyword gap analysis, resume tailoring, and cover letters.
-</details>
-
-<details>
 <summary><b><a href="https://github.com/Sridattasai18/Fin-Relief">FinRelief AI</a></b> &nbsp;·&nbsp; <samp>react, fastapi, postgres, gemini</samp></summary>
 <br>
 Full-stack debt-management platform built as a SmartBridge internship capstone. Served as team lead.
 </details>
 
 <details>
-<summary><b><a href="https://github.com/Sridattasai18/Friday">F.R.I.D.A.Y</a></b> &nbsp;·&nbsp; <samp>node, ink, cli</samp></summary>
+<summary><b><a href="https://github.com/Sridattasai18/Resume-Engineer">Resume Engineer</a></b> &nbsp;·&nbsp; <samp>python, flask, gemini, latex</samp></summary>
 <br>
-Local-first terminal task and habit manager with streaks and a personality engine. Published to npm.
+AI-powered resume optimization tool for ATS scoring, keyword gap analysis, resume tailoring, and cover letters.
 </details>
 
 <details>
@@ -86,10 +80,10 @@ Portfolio built around neo-brutalism — bold type, sharp borders, and high cont
 
 <img src="https://skillicons.dev/icons?i=py,html,css,bootstrap,js,flask,nodejs,git,docker,firebase,postgres,vscode&theme=dark" />
 <br><br>
-<samp><b>Salesforce</b> — Apex · LWC · SOQL · Flows · Async Apex · Salesforce CLI</samp><br>
+<samp><b>Salesforce</b> — Apex · LWC · SOQL · Flows · Async Apex · Salesforce CLI · Trailhead</samp><br>
 <samp><b>Database</b> — Firebase · PostgreSQL</samp><br>
-<samp><b>AI/ML</b> — LLM's & API's · RAG · FAISS · Prompt Engineering </samp> <br>
-<samp><b>Tools</b> — Git · Salesforce Trailhead · Cursor · Claude Code</samp>
+<samp><b>AI/ML</b> — LLM's & API's · RAG · FAISS · Prompt&Context Engineering</samp><br>
+<samp><b>Tools</b> — Git · Cursor · Claude Code · Canva · Figma</samp>
 
 ---
 
