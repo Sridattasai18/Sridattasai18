@@ -69,10 +69,11 @@ AI-powered resume optimization tool for ATS scoring, keyword gap analysis, resum
 </details>
 
 <details>
-<summary><b><a href="https://github.com/Sridattasai18/Neo-folio">Neo-folio</a></b> &nbsp;·&nbsp; <samp>react, typescript, framer motion</samp></summary>
+<summary><b><a href="https://github.com/Sridattasai18/Where-my-hours-go">Where My Hours Go</a></b> &nbsp;·&nbsp; <samp>react, typescript, firebase, vite</samp></summary>
 <br>
-Portfolio built around neo-brutalism — bold type, sharp borders, and high contrast.
+An intentional time-tracking app that turns "I need to do this" into "I am doing this right now" — start/stop timers, weekly goals, and a calm editorial UI.
 </details>
+
 
 ---
 
