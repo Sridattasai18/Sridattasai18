@@ -19,7 +19,6 @@ Actively looking for an **internship or full-time role** where I can keep learni
 
 ### <samp>connect</samp>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sridattasai18)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-datta-sai-vithal-kaligotla-01bb2a321/)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Sridattasai18)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FBBC05?style=flat-square&logo=vercel&logoColor=white)](https://proto-folio-three.vercel.app/)
