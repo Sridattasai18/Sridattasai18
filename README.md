@@ -55,19 +55,19 @@ Enterprise-style campus placement platform with job eligibility, applications, b
 Chat with a GitHub repository using RAG — retrieves relevant source code and generates answers grounded in the actual codebase.
 </details>
 
-<details>
+<details open>
 <summary><b><a href="https://github.com/Sridattasai18/Fin-Relief">FinRelief AI</a></b> &nbsp;·&nbsp; <samp>react, fastapi, postgres, gemini</samp></summary>
 <br>
 Full-stack debt-management platform built as a SmartBridge internship capstone. Served as team lead.
 </details>
 
-<details>
+<details open>
 <summary><b><a href="https://github.com/Sridattasai18/Resume-Engineer">Resume Engineer</a></b> &nbsp;·&nbsp; <samp>python, flask, gemini, latex</samp></summary>
 <br>
 AI-powered resume optimization tool for ATS scoring, keyword gap analysis, resume tailoring, and cover letters.
 </details>
 
-<details>
+<details open>
 <summary><b><a href="https://github.com/Sridattasai18/Where-my-hours-go">Where My Hours Go</a></b> &nbsp;·&nbsp; <samp>react, typescript, firebase, vite</samp></summary>
 <br>
 An intentional time-tracking app that turns "I need to do this" into "I am doing this right now" — start/stop timers, weekly goals, and a calm editorial UI.
@@ -78,7 +78,7 @@ An intentional time-tracking app that turns "I need to do this" into "I am doing
 
 ### <samp>stack</samp>
 
-<img src="https://skillicons.dev/icons?i=py,html,css,bootstrap,js,flask,nodejs,git,docker,firebase,postgres,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,html,css,bootstrap,js,react,flask,nodejs,git,docker,firebase,postgres,vscode&theme=dark" />
 <br><br>
 <samp><b>Salesforce</b> — Apex · LWC · SOQL · Flows · Async Apex · Salesforce CLI · Trailhead</samp><br>
 <samp><b>Database</b> — Firebase · PostgreSQL</samp><br>
@@ -96,8 +96,8 @@ An intentional time-tracking app that turns "I need to do this" into "I am doing
 ### <samp>stats</samp>
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=Sridattasai18&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=Sridattasai18&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true)
 ![](https://streak-stats.demolab.com/?user=Sridattasai18&theme=github_dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sridattasai18&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sridattasai18&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=Jupyter%20Notebook)
 
 </div>
